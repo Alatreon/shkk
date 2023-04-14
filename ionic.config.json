@@ -1,0 +1,7 @@
+{
+  "name": "shikaku",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
